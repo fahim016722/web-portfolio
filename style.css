@@ -1,0 +1,117 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin:0;}
+
+#size{ font-size:40px;
+       margin-top:-10px;
+       color:rgb(255, 102, 0);}
+p{font-size:12px;
+        text-align:start;
+        color:grey;
+        width:70%;
+        margin-bottom:30px;}
+
+.half-width{width:40%;
+    float: left;
+    margin-left: 60px;}
+
+.half-width img{width: 100%;
+                  padding-top:30px;}
+                  
+.button{background-color: rgb(243, 77, 11);
+          border-radius:20px ;
+          border:none;
+          padding:10px 30px;
+          text-align: center;
+          color: white;
+          text-transform: uppercase;
+          font-weight: bold;
+          text-decoration: none;
+          font-size: 10px;}  
+
+.first{background-image: url("images/top-banner.png");
+          background-repeat: no-repeat;}
+    
+section{height:450px;}
+
+.third{width:40%;
+       float:left;}
+
+.third img{width:100%;}
+
+.para2{margin-left: 40%;
+       text-align: justify;}
+
+#fourth{margin-left:40%;}
+
+#five{margin-left:40%;
+      font-size: xx-large;}
+
+#button{background-color: rgb(243, 77, 11);
+        border-radius:20px ;
+        border:none;
+        padding:10px 30px;
+        text-align: center;
+        color: white;
+        text-transform: uppercase;
+        font-weight: bold;
+        text-decoration: none;
+        margin-left: 40%;
+        font-size: 10px;}
+
+.seven{margin-left:40px;}
+
+#eight{width:250px;
+       margin-left: 50px;}
+    
+.nine{width:40%;
+     float:left;
+      background-color: white;
+      margin-left: 50px;
+      box-shadow: 10px 10px 30px grey;
+      border-style: solid;
+      border-width: 3px;
+      border-image: linear-gradient(tomato, blue);
+      border-image-slice:1;
+    }
+
+      
+
+
+.eleven{font-size: 20px;}
+.ten{margin-left: 40px;
+     color:orange;
+}  
+
+.twelve{width:40%;
+    float:left;
+      margin-left: 80px;
+      height: 228px;
+      box-shadow: 10px 10px 30px grey;
+      border-style: solid;
+      border-width: 3px;
+      border-image: linear-gradient(green, yellow);
+      border-image-slice:1}
+
+      .dream{background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+background-position: right;}
+
+      #exp-head{margin-left: 50px;} 
+
+      footer {text-align: center;
+    font-size: 12px;}
+    
+    .exp{background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+background-position-y: 20%;}
+  
+      
+
+
+
+
+
+
+
+    
